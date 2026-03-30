@@ -1,0 +1,9 @@
+{
+  "name": "Int4 Embeddings + LeakyReLU²",
+  "val_bpb": "TBD",
+  "bytes_total": "TBD",
+  "blurb": "Int4 embedding quantization (50% space savings) + LeakyReLU(0.5)² activation (-0.003 BPB confirmed) + lzma compression. Built on PR #414 stack with EMA + GPTQ-lite + warmdown3500. Novel int4 embedding quantization combined with proven LeakyReLU² activation.",
+  "author": "YourName",
+  "github_id": "YourGitHubID",
+  "date": "2026-03-25"
+}
